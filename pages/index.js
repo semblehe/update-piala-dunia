@@ -8,8 +8,8 @@ export default function Home() {
         <title>Next.js and tailwindcss boilerplate!</title>
       </Head>
       <LinearGradient option={1} width="100vw" height="100vh">
-        <div className='text-center space-y-8 font-sans'>
-          <h1 className='text-9xl text-white font-bold'>Starter.</h1>
+        <div className='text-center text-white space-y-8 font-sans'>
+          <h1 className='text-9xl font-bold'>Starter.</h1>
           <h2 className='text-6xl '>Next.js + Tailwindcss</h2>
           <p>Build your next Amazing product!</p>
         </div>
